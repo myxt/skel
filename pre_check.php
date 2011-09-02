@@ -1,0 +1,1 @@
+../releases/current/pre_check.php

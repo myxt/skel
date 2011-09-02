@@ -1,0 +1,1 @@
+../releases/current/index.php
