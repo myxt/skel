@@ -3,9 +3,10 @@
 [ExtensionSettings]
 ActiveExtensions[]=site_design
 ActiveExtensions[]=myxt_global
+ActiveExtensions[]=ezwebin
 ActiveExtensions[]=ezjscore
 ActiveExtensions[]=ezoe
-ActiveExtensions[]=ezsurvey
+ActiveExtensions[]=ezstarrating
 ActiveExtensions[]=eztags
 ActiveExtensions[]=ezwt
 # Disabled temporarily because of jquery incompatibility.
@@ -17,6 +18,7 @@ ActiveExtensions[]=ezwt
 #ActiveExtensions[]=eztika
 #ActiveExtensions[]=ezvideoflv
 #ActiveExtensions[]=ezevent
+#ActiveExtensions[]=ezsurvey
 #ActiveExtensions[]=cjw_newsletter
 
 */ ?>
