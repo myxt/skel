@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>Replace this with the clients name</name>
+        <version>1.0</version>
+        <copyright>Copyright (C) 2009-2011 Myxt Web Solutions</copyright>
+        <license>Proprietary (all rights reserved)</license>
+        <info_url>http://www.myxt.nl</info_url>
+    </metadata>
+
+    <dependencies>
+        <extends>
+            <extension name="myxt_global" />
+        </extends>
+    </dependencies>
+</software>
