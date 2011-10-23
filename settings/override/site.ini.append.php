@@ -8,9 +8,9 @@ ActiveExtensions[]=ezjscore
 ActiveExtensions[]=ezoe
 ActiveExtensions[]=ezstarrating
 ActiveExtensions[]=eztags
+ActiveExtensions[]=ezwebin
 ActiveExtensions[]=ezwt
-# Disabled temporarily because of jquery incompatibility.
-#ActiveExtensions[]=ezie
+ActiveExtensions[]=ezie
 #ActiveExtensions[]=ezfind
 #ActiveExtensions[]=ezmultiupload
 #ActiveExtensions[]=ezodf
