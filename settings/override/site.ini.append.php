@@ -1,7 +1,7 @@
 <?php /*
 
 [ExtensionSettings]
-ActiveExtensions[]=site_design
+ActiveExtensions[]=site
 ActiveExtensions[]=myxt_global
 ActiveExtensions[]=ezwebin
 ActiveExtensions[]=ezjscore
