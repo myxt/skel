@@ -32,14 +32,4 @@ PathPrefixExclude[]=Users
 RelatedSiteAccessList[]
 RelatedSiteAccessList[]=site_mobile
 
-[MailSettings]
-AdminEmail=info@madebymyxt.com
-EmailSender=noreply@madebymyxt.com
-
-[UserSettings]
-RegistrationEmail=info@madebymyxt.com
-
-[InformationCollectionSettings]
-EmailReceiver=info@madebymyxt.com
-
 */ ?>
