@@ -4,6 +4,8 @@
 ActiveExtensions[]=site
 ActiveExtensions[]=myxt_global
 ActiveExtensions[]=ezwebin
+ActiveExtensions[]=ezformtoken
+ActiveExtensions[]=ezgmaplocation
 ActiveExtensions[]=ezjscore
 ActiveExtensions[]=ezoe
 ActiveExtensions[]=ezstarrating
@@ -12,7 +14,7 @@ ActiveExtensions[]=ezwebin
 ActiveExtensions[]=ezwt
 ActiveExtensions[]=ezie
 #ActiveExtensions[]=ezfind
-#ActiveExtensions[]=ezmultiupload
+ActiveExtensions[]=ezmultiupload
 #ActiveExtensions[]=ezodf
 #ActiveExtensions[]=ezscriptmonitor
 #ActiveExtensions[]=eztika
