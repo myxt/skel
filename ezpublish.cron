@@ -1,1 +1,8 @@
-../releases/current/ezpublish.cron
+EZPUBLISHROOT=~/httpdocs
+PHP=/usr/bin/php
+MAILTO=hostmaster@myxt.nl
+*       *       *       *       *       cd $EZPUBLISHROOT && $PHP ./runcronjobs.php minutely >/dev/null 2>&1
+*/5     *       *       *       *       cd $EZPUBLISHROOT && $PHP ./runcronjobs.php fiveminutely >/dev/null 2>&1
+0       *       *       *       *       cd $EZPUBLISHROOT && $PHP ./runcronjobs.php hourly >/dev/null 2>&1
+0       0       *       *       *       cd $EZPUBLISHROOT && $PHP ./runcronjobs.php daily >/dev/null 2>&1
+0       0       *       *       sun     cd $EZPUBLISHROOT && $PHP ./runcronjobs.php weekly >/dev/null 2>&1
