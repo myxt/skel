@@ -1,1 +1,0 @@
-../releases/current/index_image_dfsmysqli.php
