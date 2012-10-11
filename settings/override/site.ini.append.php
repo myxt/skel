@@ -6,6 +6,7 @@ ActiveExtensions[]=myxt_global
 ActiveExtensions[]=ezwebin
 ActiveExtensions[]=ezformtoken
 ActiveExtensions[]=ezgmaplocation
+ActiveExtensions[]=ezautosave
 ActiveExtensions[]=ezjscore
 ActiveExtensions[]=ezoe
 ActiveExtensions[]=ezstarrating
